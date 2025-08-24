@@ -25,4 +25,3 @@ An intelligent chatbot built with **Python**, **TensorFlow**, and **Natural Lang
 
 ---
 
-> 🚧 Project is a work in progress — improvements and pull requests welcome!
