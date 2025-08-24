@@ -1,5 +1,17 @@
 # AI Chatbot using NLP & TensorFlow
 
+NAME:Kambala Veerababu
+
+COMPANY: CODTECH IT SOLUTIONS
+
+INTERN ID:CT04DZ1427
+
+DOMAIN: Python Programming
+
+DURATION: 4 WEEEKS
+
+MENTOR: NEELA SANTOSH
+
 An intelligent chatbot built with **Python**, **TensorFlow**, and **Natural Language Processing (NLP)**. This project demonstrates how to build and deploy a simple conversational AI capable of understanding user intent and generating relevant responses.
 
 ## ✨ Features
