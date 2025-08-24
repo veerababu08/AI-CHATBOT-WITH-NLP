@@ -21,5 +21,6 @@ An intelligent chatbot built with **Python**, **TensorFlow**, and **Natural Lang
 
 ##output
 
+<img width="686" height="201" alt="Image" src="https://github.com/user-attachments/assets/127d7e66-dc3d-4e52-94ab-025f3030cc79" />
 
 
