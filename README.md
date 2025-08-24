@@ -17,11 +17,9 @@ An intelligent chatbot built with **Python**, **TensorFlow**, and **Natural Lang
 - Jupyter Notebooks
 - JSON (for intent training data)
 
-
-
-
-
-
-
 ---
+
+##output
+
+
 
