@@ -17,46 +17,7 @@ An intelligent chatbot built with **Python**, **TensorFlow**, and **Natural Lang
 - Jupyter Notebooks
 - JSON (for intent training data)
 
-## 📁 Project Structure
-```
-ai-chatbot-nlp/
-├── data/
-│   └── intents.json               # Sample training data (intents, responses)
-├── model/
-│   └── chatbot_model.h5           # Trained TensorFlow model
-├── notebooks/
-│   └── training.ipynb             # Notebook for training and evaluation
-├── app/
-│   ├── main.py                    # FastAPI app serving the chatbot
-│   └── requirements.txt           # Dependencies
-├── README.md
-└── .gitignore
-```
 
-## 🚀 Getting Started
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/Zig-Tutorials/ai-chatbot-nlp.git
-cd ai-chatbot-nlp
-```
-
-### 2. Create a virtual environment and install dependencies
-```bash
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
-pip install -r app/requirements.txt
-```
-
-### 3. Train the model
-Open `notebooks/training.ipynb` and run all cells to train and save the model.
-
-### 4. Run the FastAPI server
-```bash
-uvicorn app.main:app --reload
-```
-
-Then go to `http://127.0.0.1:8000/docs` to test your chatbot API.
 
 
 
